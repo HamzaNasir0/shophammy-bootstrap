@@ -1,7 +1,9 @@
 **shophammy-bootstrap**
+
 This project is a multi-page responsive website for Hammy, a premium streetwear brand, built using Bootstrap. The website includes multiple pages such as Home, Shop, About, and Contact, and is styled with a modern and clean design that leverages Bootstrap's component library.
 
 **Features**
+
 Home Page: Hero section, featured products using Bootstrap Cards, and brand highlights.
 
 Shop Page: Product catalog with filters (utilizing Bootstrap Forms and Dropdowns) for categories, price range, size, and color.
